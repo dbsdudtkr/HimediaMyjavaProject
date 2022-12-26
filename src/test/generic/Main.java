@@ -13,6 +13,8 @@ class D extends C {
 	}
 }
 
+	//깃허브에 반영할 내용
+
 public class Main {
 	// 제네릭 클래스를 파라미터로 받아들이는 메서드를 정의
 	static void method1(Goods<A> g){}
