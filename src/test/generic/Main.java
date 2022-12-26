@@ -22,7 +22,7 @@ public class Main {
 	static void method3(Goods<? extends B> g){}
 	static void method4(Goods<? super B> g){}
 	
-	//asd//
+	//asefefd//
 	public static void main(String[] args) {
 		// 제네릭 타입으로 A 객체만 가능
 		method1(new Goods<A>());
